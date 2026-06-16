@@ -7,6 +7,12 @@ This project is an end-to-end Customer Loyalty Analytics solution that transform
 
 ---
 
+### 📊 Technology Usage Distribution
+
+
+
+---
+
 ### 🔷 Python (Data Processing & Analysis)
 Python was used for data cleaning, transformation, and exploratory analysis:
 - Data preprocessing and cleaning
@@ -40,6 +46,12 @@ CSV Dataset → Python (Cleaning & Feature Engineering) → SQL Server (Storage 
 
 ---
 
+### 🚀 Pipeline Value Contribution
+
+
+
+---
+
 ## 🏗️ Architecture Overview
 
 📁 Raw Dataset (CSV)  
@@ -58,3 +70,9 @@ CSV Dataset → Python (Cleaning & Feature Engineering) → SQL Server (Storage 
 - Strong focus on customer behavior and revenue analysis  
 - Automated SQL stored procedure for reusable insights  
 - Interactive and business-focused Power BI dashboard  
+
+---
+
+## 👨‍💻 Author
+Youssif Mossad  
+Aspiring Data Engineer
