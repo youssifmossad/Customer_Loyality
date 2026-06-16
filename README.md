@@ -50,9 +50,22 @@ CSV Dataset → Python (Cleaning & Feature Engineering) → SQL Server (Storage 
 
 ---
 
-### 🚀 Pipeline Value Contribution
+## 🚀 Pipeline Value Contribution
 
+This section shows how raw data is progressively transformed into high-value business insights across each stage of the analytics pipeline.
 
+---
+
+### 📊 From Raw Data to Business Value
+
+### 📈 Transformation Summary
+
+| Stage | Contribution | Business Value |
+|------|-------------|----------------|
+| 📁 Dataset (CSV) | Raw Data | 🟡 Low |
+| 🐍 Python | Cleaning & Structuring | 🟠 Medium |
+| 🗄️ SQL Server | Analysis & KPIs | 🔵 High |
+| 📊 Power BI | Insights & Decisions | 🟢 Very High |
 
 ---
 
