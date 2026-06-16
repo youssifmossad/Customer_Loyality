@@ -1,0 +1,19 @@
+## 📦 Requirements
+
+This project requires the following Python libraries to run the full data pipeline:
+
+---
+
+### ⚙️ Core Dependencies
+
+🐍 pandas → Data manipulation & cleaning  
+🔢 numpy → Numerical computations  
+🗄️ sqlalchemy → Database connection & ORM  
+🔌 pyodbc → SQL Server connection driver  
+
+---
+
+### 📦 Installation
+
+```bash id="install_001"
+pip install -r requirements.txt
